@@ -322,11 +322,11 @@ padding: 10px;
     background-color: #f82137;
     border: none;
     cursor: pointer;
-    border-radius: 7px;
     transition: all 1s ease 0s;
+    border-radius: 7px;
 }
 
-.form-msg__sumbit:hover {
+.form-msg__submit:hover {
     transform: scale(1.2);
 }
 
